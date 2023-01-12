@@ -1,4 +1,4 @@
 # DeusKonann.github.io
 Mathew Luis A. Delovieres
 
-LG BREBEUF
+LG **Brebeuf**
